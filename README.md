@@ -35,15 +35,19 @@ Edit
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7bcc7c02-7f8a-4a5b-b9e2-6da20ce38691" width="250"/>
-      <br><sub><b>PromoGen Output #1</b></sub>
+      <br><sub><b>Wireless Noise Cancellation Headphones</b></sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/836080e7-df91-4fe5-8f26-8d410ebc6514" width="250"/>
-      <br><sub><b>PromoGen Output #2</b></sub>
+      <br><sub><b>Dummy cars for kids</b></sub>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/dd6a2ab3-2626-45e3-8477-f1212de517a9" width="250"/>
-      <br><sub><b>PromoGen Output #3</b></sub>
+      <br><sub><b>4 inches Smart Phone</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ce3a2d88-454e-4d35-a6e6-4c4797fc5ef4" width="250"/>
+      <br><sub><b>4 inches Smart Phone</b></sub>
     </td>
   </tr>
 </table>
