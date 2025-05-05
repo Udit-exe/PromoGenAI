@@ -6,11 +6,10 @@
 
 ## 🚀 Features
 
-- ✍️ Generates promotional product descriptions from product name and features  
+- ✍️ Generates promotional product descriptions from product name
 - 🖼️ Creates promotional-style images using AI text-to-image models  
 - 💬 Customizable prompt templates for both text and visuals  
 - 📓 Easy-to-use interface via Jupyter Notebook  
-- ✅ Price overlay feature added using Pillow (PIL)  
 - 📌 Example use cases included  
 
 ---
