@@ -25,3 +25,8 @@ Before running the notebook, ensure the following are installed:
 
 ```bash
 pip install openai diffusers transformers accelerate pillow python-dotenv
+```
+##Sample Images
+![sample](https://github.com/user-attachments/assets/7bcc7c02-7f8a-4a5b-b9e2-6da20ce38691)
+![download](https://github.com/user-attachments/assets/836080e7-df91-4fe5-8f26-8d410ebc6514)
+![download](https://github.com/user-attachments/assets/dd6a2ab3-2626-45e3-8477-f1212de517a9)
