@@ -47,7 +47,7 @@ Edit
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ce3a2d88-454e-4d35-a6e6-4c4797fc5ef4" width="250"/>
-      <br><sub><b>4 inches Smart Phone</b></sub>
+      <br><sub><b>4 inches Smart Television</b></sub>
     </td>
   </tr>
 </table>
